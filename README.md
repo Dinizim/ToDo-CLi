@@ -1,5 +1,4 @@
 
-````markdown
 # 📝 Todo CLI (Python)
 
 Uma **CLI simples de gerenciamento de tarefas**, escrita em **Python**, voltada para uso no **Linux**.
@@ -37,7 +36,7 @@ Verifique se o Python está instalado:
 python3 --version
 ````
 
----
+
 
 ## 📦 Instalação
 
