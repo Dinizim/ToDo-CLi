@@ -1,8 +1,3 @@
-Perfeito 👍
-Eu vou **organizar, padronizar e deixar esse README com cara de projeto profissional**, mantendo tudo simples e claro.
-Abaixo está a **versão final, pronta para colar no GitHub**.
-
----
 
 ````markdown
 # 📝 Todo CLI (Python)
